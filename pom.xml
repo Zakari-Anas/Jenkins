@@ -8,6 +8,7 @@
 		<version>3.2.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
+	<!-- test refresh -->
 	<groupId>com.example</groupId>
 	<artifactId>Point-of-sale</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
